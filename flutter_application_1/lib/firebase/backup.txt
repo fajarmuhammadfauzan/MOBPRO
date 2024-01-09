@@ -1,0 +1,11 @@
+final user = <String, dynamic>{
+  "first": "Alan",
+  "middle": "Mathison",
+  "last": "Turing",
+  "born": 1912
+};
+
+// Add a new document with a generated ID
+db.collection("users").add(user).then((DocumentReference doc) =>
+    print('DocumentSnapshot added with ID: ${doc.id}'));
+        },

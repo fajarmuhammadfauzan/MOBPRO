@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582706963392",
+    "project_id": "mountain-b15eb",
+    "storage_bucket": "mountain-b15eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582706963392:android:0706f59162985da094de25",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9sW4mukp0_3utLh_NXRP3eBDR9Klvv6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
